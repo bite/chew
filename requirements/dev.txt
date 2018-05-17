@@ -1,0 +1,3 @@
+https://github.com/bite/bite/archive/master.tar.gz#egg=bite
+https://github.com/pkgcore/snakeoil/archive/master.tar.gz#egg=snakeoil
+urwid>=2.0

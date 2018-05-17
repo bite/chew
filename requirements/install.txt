@@ -1,0 +1,3 @@
+bite
+snakeoil>=0.8.0
+urwid>=2.0
